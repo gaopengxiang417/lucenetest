@@ -39,6 +39,5 @@ public class IndexSearch {
 
         directoryReader.close();
 
-
     }
 }
