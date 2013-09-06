@@ -37,6 +37,7 @@ public class IndexSearch {
             System.out.println(scoreDoc.score + "," + scoreDoc.shardIndex );
         }
 
+
         directoryReader.close();
 
     }
